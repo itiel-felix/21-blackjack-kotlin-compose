@@ -19,3 +19,5 @@ Game history is stored locally using **SQLite**.
 - Winner detection
 - Game history storage
 - Simple and clean UI
+
+![g4916](https://github.com/felixItiel13/21-BlackJack-Kotlin/assets/82411412/e08cd13d-cad6-48aa-be6a-8223d4a01830)
